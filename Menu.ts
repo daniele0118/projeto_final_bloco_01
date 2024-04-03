@@ -8,7 +8,7 @@ export function main(){
 
     while(true){
 
-        console.log("\n\n.-~*´¨`*·~-.¸_Óculos_,.-~*´¨`*·~-.\n");
+        console.log("\n\n-~*´¨`*·~-.¸_Óculos_,.-~*´¨`*·~-\n");
         console.log("1:Listar todos os Produtos::::::");
         console.log("2:Listar Produto pelo ID::::::::");
         console.log("3:Cadastrar Produto:::::::::::::");
@@ -48,3 +48,4 @@ export function main(){
     
     }
 }
+main();
