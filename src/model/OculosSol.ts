@@ -23,6 +23,7 @@ export class OculosSol extends Oculos{
         super.visualizar();
         if(this.uv)
         console.log(`Esse oculos possui protecao contra raios uv!™️`);
+    
     }
 
 
